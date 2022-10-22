@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "rust-lang.rust-analyzer",
+        "serayuzgur.crates",
+        "vadimcn.vscode-lldb",
+        // "tamasfe.even-better-toml",
+        // "dustypomerleau.rust-syntax",
+        // "formulahendry.code-runner",
+        // "ryanluker.vscode-coverage-gutters"
+    ]
+}
